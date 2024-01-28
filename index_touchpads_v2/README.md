@@ -2,6 +2,9 @@
 
 ## LC Controls
 
+A note: These controls only really work if you have sprint set to toggle. This is because holding down the touchpad while also
+holding forward on the control stick is difficult.
+
 |      Action      | PC               | VR                | Notes                                                             |
 | :--------------: | ---------------- | ----------------- | ----------------------------------------------------------------- |
 |       Look       | Mouse Movement   | HMD               | Will use right joystick X for snap-turning                        |
